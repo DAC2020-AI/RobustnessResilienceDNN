@@ -1,0 +1,7 @@
+{
+  "dl_models_root"  : "dl-models/",
+  "results_dir"     : "results",
+  "cache_dir"       : "cache",
+  "experiment_dir"  : "experiments/sweeps/exp_configs",
+  "experiment_base" : "experiments/sweeps/"
+}
